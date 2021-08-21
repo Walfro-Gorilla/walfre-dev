@@ -26,7 +26,7 @@ class Header extends Component {
           <ul id="nav" className="nav">
             <li className="current">
               <a className="smoothscroll" href="#home">
-                Inicio
+                Wal
               </a>
             </li>
 
@@ -38,7 +38,7 @@ class Header extends Component {
 
             <li>
               <a className="smoothscroll" href="#resume">
-                Hoja de Vida
+                Curriculum
               </a>
             </li>
 

@@ -1,185 +1,161 @@
 {
   "main": {
-    "name":"Walfre Aguilar",
-    "description":"Soy desarrollador de software y app, e Ingeniero en Tecnologias de la Informacion y Comunicacion por parte de la UTCJ, ue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Ing. Walfre Aguilar",
+    "description":"Amo las tecnologias y las posibilidades que ofrecen, cada proceso manual es una oportunidad de automatizar y sistematizar",
     "image":"profilepic.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"Desarrollador app y web, frontend y backend. Me gusta desarrollar Bots con IA, sistematizar y automatizar procesos para llevar las soluciones adecuadas con tecnología para cada situación.",
+    "contactmessage":"Por favor, ponte en contacto conmigo para tomarnos un cafe ☕",
+    "email": "Walfre.am@Gorilla-Labs.com",
+    "phone": "+52 656-850-4383",
+    "github":"https://github.com/walfro-gorilla",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Oasis de Letonia, 1020-10",
+      "city":"Ciudad Juarez",
+      "state":"Chihuahua",
+      "zip": "32674"
+
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://Walfre-Dev.com/",
+    "resumedownload":"http://Walfre-Dev.com/",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/Walfro.Aguilar",
         "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
+      },      
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://mx.linkedin.com/in/walfre-aguilar-9a0944a0",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/walfro90/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/walfro-gorilla",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"En el transcurso 9 años e trabajado en areas de tecnologias y desarrollo web, en los cuales e adquirido conocimientos y habilidades enfocadas en lo que mas amo PROGRAMAR 🤓",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidad Tecnologia de Ciudad Juarez",
+        "degree":"Ingenieria",
+        "graduated":"Abril 2016",
+        "description":"Título Ingeniería (Ingeniero en Tecnologías de la Información y Comunicación.).Cedula Profesional 9840842."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"UTCJ",
+        "degree":"TSU",
+        "graduated":"Agosto 2013",
+        "description":"Titulo T.S.U (Técnico Superior Universitario en Tecnologías de la Información y Comunicación, Área redes y telecomunicaciones.).Cedula Profesional 7979603."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Gorilla-Labs",
+        "title":"Desarrollo de software y apps FREELANCE",
+        "years":"Marzo 2017 - Presente",
+        "description":"Desarrollo de proyectos y sistemas a negocios. Utilizando las tecnologias JAVA, Bootstrap, Firebase, y sus librerias."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Robert Bosch Sistemas Automotrices JuP1",
+        "title":"Supervisor de Programacion",
+        "years":"Febrero 2016 - Febrero 2017",
+        "description":"Me encargaba de supervisas los proyectos fijos de la empresa y de inovar con nuevos procesos y apps para la mejora de la empresa. Utilizando tecnologias como VB.net, C#, SQL, Office."
+      },
+      {
+        "company":"Honeywell Optoelectronica",
+        "title":"Analista de Datos",
+        "years":"Noviembre 2015 - Febrero 2016",
+        "description":"Sistematizar y automatizar reportes con macros en Miscrosoft Office, almacenando la informacion en BD SQL y mostrandola en webs HTML."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"VB.net",
+        "level":"70%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"VBA Office",
+        "level":"95%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"90%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"Firebase",
+        "level":"85%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"C#",
+        "level":"75%"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"85%"
+      },
+      {
+        "name":"SQL",
+        "level":"75%"
+      },
+      {
+        "name":"Bootsrap",
+        "level":"85%"
       }
+
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Honeywell COVID Siscan",
+        "category":"Sistema de regiostro actividades COVID19",
+        "image":"01.png",
+        "url":"https://honeywell-mediscan.web.app/tasker"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Ketzal app",
+        "category":"Red Social de Viajes",
+        "image":"02.png",
+        "url":"https://huitziil-6a3e0.firebaseapp.com/#/tour-maza-2021"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Juarez bus app",
+        "category":"App de transporte de personal",
+        "image":"06.png",
+        "url":"https://jrz-bus-services.web.app/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Eagle VIP",
+        "category":"Web para renta de limousinas",
+        "image":"04.png",
+        "url":"https://eagle-vip.firebaseapp.com/index"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
+        "title":"Centro de VISAS",
+        "category":"Web para soluciones migratorias",
+        "image":"05.png",
+        "url":"https://visas-center-usa-mx.firebaseapp.com/index"
+      },      
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Wanderlust Jrz",
+        "category":"Website creado para agencia de viajes local",
+        "image":"03.png",
+        "url":"https://wanderlustravels-jrz.firebaseapp.com/mazatlan2020"
       }
+      
     ]
   }
 }

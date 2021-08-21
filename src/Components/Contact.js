@@ -36,7 +36,7 @@ class Contact extends Component {
                 <fieldset>
                   <div>
                     <label htmlFor="contactName">
-                      Name <span className="required">*</span>
+                      Nombre <span className="required">*</span>
                     </label>
                     <input
                       type="text"
@@ -76,7 +76,7 @@ class Contact extends Component {
 
                   <div>
                     <label htmlFor="contactMessage">
-                      Message <span className="required">*</span>
+                      Mensaje <span className="required">*</span>
                     </label>
                     <textarea
                       cols="50"
@@ -87,7 +87,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                    <button className="submit">Submit</button>
+                    <button className="submit">Enviar</button>
                     <span id="image-loader">
                       <img alt="" src="images/loader.gif" />
                     </span>
@@ -106,7 +106,7 @@ class Contact extends Component {
           <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>Address and Phone</h4>
+                <h4>Direccion y telefono</h4>
                 <p className="address">
                   {name}
                   <br />
@@ -117,8 +117,8 @@ class Contact extends Component {
                 </p>
               </div>
 
-              <div className="widget widget_tweets">
-                <h4 className="widget-title">Latest Tweets</h4>
+              {/* <div className="widget widget_tweets">
+                <h4 className="widget-title">Ultimos Tweets</h4>
                 <ul id="twitter">
                   <li>
                     <span>
@@ -144,7 +144,8 @@ class Contact extends Component {
                     </b>
                   </li>
                 </ul>
-              </div>
+              </div> */}
+
             </aside>
           </Slide>
         </div>
