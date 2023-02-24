@@ -2,12 +2,12 @@
 {
   "main": {
     "name":"Ing. Walfre Aguilar",
-    "description":"Amo las tecnologias y las posibilidades que ofrecen, cada proceso manual es una oportunidad de automatizar y sistematizar",
+    "description":"Amo las tecnologias y las posibilidades que estas ofrecen, cada proceso manual es una oportunidad de automatizar y sistematizar",
     "image":"profilepic.png",
-    "bio":"Desarrollador app y web, frontend y backend. Me gusta desarrollar Bots con IA, sistematizar y automatizar procesos para llevar las soluciones adecuadas con tecnología para cada situación.",
+    "bio":"Desarrollador app y web, frontend y backend. Me gusta desarrollar Bots con IA, sistematizar y automatizar mediante apps o sistemas web para llevar las soluciones adecuadas con tecnología para cada situación.",
     "contactmessage":"Por favor, ponte en contacto conmigo para tomarnos un cafe ☕",
     "email": "Walfre.am@Gorilla-Labs.com",
-    "phone": "+52 656-850-4383",
+    "phone": "+52 656-112-1142",
     "github":"https://github.com/walfro-gorilla",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
